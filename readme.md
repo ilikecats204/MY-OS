@@ -69,41 +69,62 @@ root@2026:~# quote-life    # [DATA]   Fetches Wisdom from the Database
 root@2026:~# music         # [AUDIO]  Generates a melody via Synth
 root@2026:~# capture       # [TOOL]   Exports System Screenshot (PNG)
 root@2026:~# exit          # [POWER]  System Shutdown Sequence
-<div align="left"> 
-<table> 
-<tr> 
-<td width="80px"> 
-<img src="https://github.com/salahuddingfx.png" width="80px" style="border-radius:50%; border: 2px solid #00ff41;"> 
-</td> 
-<td> 
-<strong>Architect:</strong> Salah Uddin Kader
-<strong>Role:</strong> Creative Frontend Engineer
-<strong>Mission:</strong> Building the future, one line of code at a time. 
-</td> 
-</tr> 
-</table> 
+```
+
+<div align="left">
+<table>
+<tr>
+<td width="90">
+  <img 
+    src="https://github.com/salahuddingfx.png" 
+    width="80"
+    style="border-radius:50%; border:2px solid #00ff41;"
+  />
+</td>
+<td>
+  <strong>Architect:</strong> Salah Uddin Kader<br>
+  <strong>Role:</strong> Creative Frontend Engineer<br>
+  <strong>Mission:</strong> Building the future, one line of code at a time.
+</td>
+</tr>
+</table>
 </div>
 
-<div align="left"> 
-<a href="https://www.google.com/search?q=https://github.com/salahuddinkader"> 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite">
-</a> 
-<a href="https://www.google.com/search?q=https://facebook.com/salahuddinkader">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite">
- </a> 
- <a href="#"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite"> 
- </a> 
- </div>
+<br>
+
+<div align="left">
+
+<a href="https://github.com/salahuddingfx" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://facebook.com/salahuddingfx" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/salahuddingfx" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
 
 <div align="center">
 
-
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3D050505%26height%3D100%26section%3Dfooter%26text%3DSYSTEM%2520READY%2520FOR%25202026%26fontSize%3D25%26fontColor%3D00ff41%26animation%3DfadeIn%26stroke%3D00ff41%26strokeWidth%3D2" width="100%"/>
+<img 
+  src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=100&section=footer&text=SYSTEM%20READY%20FOR%202026&fontSize=25&fontColor=00ff41&animation=fadeIn&stroke=00ff41&strokeWidth=2" 
+  width="100%"
+/>
 
 <a href="https://git.io/typing-svg"> 
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DOrbitron%26weight%3D500%26size%3D18%26pause%3D1000%26color%3DFF0055%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DShutting%2BDown%2BEngine...%3BThank%2Byou%2Bfor%2Bvisiting.%3BSee%2Byou%2Bin%2Bthe%2Bfuture." alt="Typing Footer"> 
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=18&pause=1000&color=FF0055&center=true&vCenter=true&width=435&lines=Shutting+Down+Engine...;Thank+you+for+visiting.;See+you+in+the+future." 
+    alt="Typing Footer"
+  /> 
 </a>
+
 <p>
-<i>© 2025 Salah Uddin Kader. All Rights Reserved.</i>
-</p> 
+  <i>© 2025 Salah Uddin Kader. All Rights Reserved.</i>
+</p>
+
 </div>
